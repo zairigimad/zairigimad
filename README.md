@@ -8,6 +8,7 @@
 - 🛠 My Toolkit:
   - PHP 
   - Symfony Framework
+  - API Platform
   - VueJs
   - React Native
   - AWS ☁️
