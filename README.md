@@ -5,6 +5,13 @@
 - 🌱 I’m currently learning ...
   - React Native
   - Symfony UX  
+- 🛠 My Toolkit:
+  - PHP 
+  - Symfony Framework
+  - VueJs
+  - React Native
+  - AWS ☁️
+  - Kubernetes  
 - 📫 How to reach me: 
   - twitter : @zairigimad
 
