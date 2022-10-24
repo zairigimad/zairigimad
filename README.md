@@ -1,7 +1,7 @@
 ### Hey 👋
 
 
-- 🔭 I’m currently working on a mobile application MVP ( no spoil )
+- 🔭 I’m currently working on a medical SaaS 💊
 - 🌱 I’m currently learning ...
   - SaaS growth hacking and SaaS marketing
 - 🛠 My Toolkit:
