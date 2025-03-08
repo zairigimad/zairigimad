@@ -1,16 +1,19 @@
 ### Hey 👋
 
 
-- 🔭 I’m currently working on a medical SaaS 💊
+- 🔭 I’m currently working on a medical SaaS ( Dentopus.com )💊
 - 🌱 I’m currently learning ...
   - SaaS growth hacking and SaaS marketing
 - 🛠 My Toolkit:
   - Symfony Framework
   - API Platform
-  - VueJs
-  - React Native
+  - React
+  - React Native ( Expo )
   - AWS ☁️
-  - Kubernetes  
+  - Kubernetes
+  - Coolify
+  - Go
+  - Langchain with Python
 - 📫 How to reach me: 
-  - twitter : @zairigimad
+  - X : @zairigimad
 
